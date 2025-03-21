@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-05T11:56:38 IST" name="Suite" finished-at="2025-02-05T11:57:02 IST" duration-ms="24028">
+    <groups>
+    </groups>
+    <test started-at="2025-02-05T11:56:38 IST" name="Test" finished-at="2025-02-05T11:57:02 IST" duration-ms="24028">
+      <class name="org.execution.TC01_ADactinHotelLoginPageValidation">
+        <test-method is-config="true" signature="LoginPageDetails()[pri:0, instance:org.execution.TC01_ADactinHotelLoginPageValidation@4d1c005e]" started-at="2025-02-05T11:56:38 IST" name="LoginPageDetails" finished-at="2025-02-05T11:56:48 IST" duration-ms="10034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageDetails -->
+        <test-method signature="LoginSuccessFulValidation()[pri:0, instance:org.execution.TC01_ADactinHotelLoginPageValidation@4d1c005e]" started-at="2025-02-05T11:56:49 IST" name="LoginSuccessFulValidation" finished-at="2025-02-05T11:56:49 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessFulValidation -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.execution.TC01_ADactinHotelLoginPageValidation@4d1c005e]" started-at="2025-02-05T11:56:49 IST" name="CloseBrowser" finished-at="2025-02-05T11:56:49 IST" duration-ms="744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.execution.TC01_ADactinHotelLoginPageValidation -->
+      <class name="org.execution.TC03_ADactinHotelSelectPageValidation">
+        <test-method is-config="true" signature="LoginPageDetails()[pri:0, instance:org.execution.TC03_ADactinHotelSelectPageValidation@247310d0]" started-at="2025-02-05T11:56:57 IST" name="LoginPageDetails" finished-at="2025-02-05T11:57:01 IST" duration-ms="4730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageDetails -->
+        <test-method signature="Tc03_ADactinHotelSelectPageValidation()[pri:0, instance:org.execution.TC03_ADactinHotelSelectPageValidation@247310d0]" started-at="2025-02-05T11:57:01 IST" name="Tc03_ADactinHotelSelectPageValidation" finished-at="2025-02-05T11:57:02 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc03_ADactinHotelSelectPageValidation -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.execution.TC03_ADactinHotelSelectPageValidation@247310d0]" started-at="2025-02-05T11:57:02 IST" name="CloseBrowser" finished-at="2025-02-05T11:57:02 IST" duration-ms="889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.execution.TC03_ADactinHotelSelectPageValidation -->
+      <class name="org.execution.TC02_ADactinHotelSearchHotelPageValidation">
+        <test-method is-config="true" signature="LoginPageDetails()[pri:0, instance:org.execution.TC02_ADactinHotelSearchHotelPageValidation@7c37508a]" started-at="2025-02-05T11:56:49 IST" name="LoginPageDetails" finished-at="2025-02-05T11:56:56 IST" duration-ms="6449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageDetails -->
+        <test-method signature="TC02_ADactinHotelSearchHotelPageValidation()[pri:0, instance:org.execution.TC02_ADactinHotelSearchHotelPageValidation@7c37508a]" started-at="2025-02-05T11:56:56 IST" name="TC02_ADactinHotelSearchHotelPageValidation" finished-at="2025-02-05T11:56:56 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_ADactinHotelSearchHotelPageValidation -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.execution.TC02_ADactinHotelSearchHotelPageValidation@7c37508a]" started-at="2025-02-05T11:56:56 IST" name="CloseBrowser" finished-at="2025-02-05T11:56:57 IST" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.execution.TC02_ADactinHotelSearchHotelPageValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
