@@ -28,6 +28,8 @@ public class TC01_ADactinHotelLoginPageValidation extends SeleniumBaseClass {
 
 		}
 
+		System.out.println("tester work completed");
 	}
+
 
 }
