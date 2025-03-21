@@ -27,6 +27,9 @@ public class TC01_ADactinHotelLoginPageValidation extends SeleniumBaseClass {
 		} catch (Exception e) {
 
 		}
+		
+		
+		System.out.println("github traIL SUCESS");
 
 		System.out.println("tester work completed");
 	}
